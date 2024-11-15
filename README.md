@@ -4,7 +4,7 @@ ci/cd pipeline with azure and jenkins
 - 👋 Hi, I’m @veera4455
 - 👀 I’m interested in automating and optimizing infrastructure, delivering continuous integration and continuous delivery (CI/CD), and ensuring seamless, scalable, and secure deployments. My focus is on building robust pipelines, automating workflows, and collaborating across teams to accelerate software delivery
 - 🌱 I’m currently learning SecDevOps
-- 💞️ I’m looking to collaborate on thyat catches my interest
+- 💞️ I’m looking to collaborate on that catches my interest
 - ⚡ Fun fact: I'm Lazy for the know stuff 
 
 
